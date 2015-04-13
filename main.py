@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests #if this doesn't run, then try 'pip install requests'
 
 def main():
