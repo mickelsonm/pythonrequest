@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import requests #if this doesn't run, then try 'pip install requests'
+ #if this doesn't run, then try 'pip install requests'
+import requests
 
 class Base:
 	def __init__(self):
